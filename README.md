@@ -17,3 +17,47 @@ The objective this project is provide a initial structure to Laravel that contem
 ### Definitions
 - PHP 8.4+
 - Postgresql 17.4+
+
+### Status
+<table>
+  <thead>
+    <tr>
+      <td>Requirement</td>
+      <td>Done</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DDD/Clean Arch/Ports and Adapters Design</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Tests implementation</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Graylog implementation</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>RabbitMq implementation</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>SonarQube implementation</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Keycloak implementation</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Cache implementation</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Storage implementation</td>
+      <td>No</td>
+    </tr>
+  </tbody>
+</table>
