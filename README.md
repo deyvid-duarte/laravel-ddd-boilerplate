@@ -36,19 +36,19 @@ The objective this project is provide a initial structure to Laravel that contem
       <td>No</td>
     </tr>
     <tr>
-      <td>Graylog implementation</td>
+      <td>Log implementation</td>
       <td>No</td>
     </tr>
     <tr>
-      <td>RabbitMq implementation</td>
+      <td>Message Broker implementation</td>
       <td>No</td>
     </tr>
     <tr>
-      <td>SonarQube implementation</td>
+      <td>SAST implementation</td>
       <td>No</td>
     </tr>
     <tr>
-      <td>Keycloak implementation</td>
+      <td>Auth implementation</td>
       <td>No</td>
     </tr>
     <tr>
